@@ -4,7 +4,7 @@
 This project includes Cubic and Quintic Polynomial Plotting.
 
 ## Cubic Polynomial Plot
-<img src="Image/Cubic_Plot.jpg" width="550"height="500">
+<img src="Image/Cubic_Plot.jpg" width="650" height="400">
 
 ## Quintic Polynomial Plot
-<img src="Image/Quintic_Plot.JPG">
+<img src="Image/Quintic_Plot.JPG" width="650" height="400">
