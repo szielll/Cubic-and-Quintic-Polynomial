@@ -1,4 +1,4 @@
-# Cubic-and-Quintic-Polynomial
+# Cubic and Quintic Polynomial Plotting
  For Path and Trajectory Planning
 
 This project includes Cubic and Quintic Polynomial Plotting.
